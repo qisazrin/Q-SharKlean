@@ -16,7 +16,7 @@ Also clean dataset instantly by removing missing rows and downloading the clean 
 🔹 Show missing value counts
 🔹 Option to remove
 🔹 Download cleaned dataset as CSV
-Very simple and fast!!~
+- Very simple and fast!!~
 
 ---
 ## 🫆 Tech stack
